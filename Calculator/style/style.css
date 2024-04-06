@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+.para{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: bold;
+}
+.calculator {
+padding: 10px;
+border-radius: 10px;
+height: 500px;
+width: 400px;
+margin: auto;
+background-color: grey;
+box-shadow:white;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.display-box {
+padding: 3px;
+font-family: 'Courier';
+font-size: medium;
+font-weight: bold;
+background-color: white;
+border: solid black 0.5px;
+color: black;
+border-radius: 5px;
+width: 98%;
+height: 65%;
+}
+
+#clear {
+background-color: green;
+}
+#equal {
+    background-color: green;
+    }
+
+button{
+font-family: 'Courier';
+font-size: medium;
+font-weight: bold;
+background-color: #f8f9fa;
+color: rgb(8, 6, 6);
+border: solid black 0.5px;
+width: 100%;
+border-radius: 5px;
+height: 70%;
+outline: none;
+}
+
+input:active[type=button] {
+background: #e5e5e5;
+}
+
+#title{
+    font-family: 'Courier';
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(8, 6, 6);
+    text-align: center;
+}
+
+#description{
+    font-family: 'Courier';
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(8, 6, 6);
+    text-align: center;
+}
