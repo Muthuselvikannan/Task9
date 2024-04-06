@@ -1,0 +1,107 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Courier';
+    font-weight: bolder;
+}
+.display-4{
+    font-family: Courier;
+    font-weight: bolder;
+}
+label{
+    color: rgb(8, 7, 7);
+    font-size: 13px;
+    font-family: 'Courier';
+    font-weight: bold;
+  }
+  
+  .mainLabel{
+    font-size: 17px;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    color: rgb(10, 10, 10);
+    font-family: 'Courier';
+  }
+  
+  
+  .textBox{
+    border: 1px solid rgb(8, 8, 8);
+    padding: 4px;
+    width: 250px;
+    font-size: 13px;
+    font-family: 'Courier';
+  }
+  
+  .foodLabel{
+    padding-left: 5px;
+    font-family: 'Courier';
+  }
+  
+  input{
+    font-size: 13px;
+    font-family: 'Courier';
+  }
+  
+  .radioLabel{ 
+    padding: 13px 20px 0 5px;
+    font-size: 14px;
+    position: relative;
+    bottom: 2px;
+    font-family: 'Courier';
+  }
+  
+  .btn{
+    margin-top: 20px;
+    width: 250px;
+    background-color: rgb(96, 62, 231);
+    color: rgb(245, 239, 239);
+    font-family: 'Courier';
+  }
+  
+  
+  #warning{
+    color:red;
+    padding: 40px 0 0 20px;
+    font-family: 'Courier';
+  }
+  
+  .btn:focus,a:active {
+    outline: none !important;
+    box-shadow: none;
+  }
+  table,th,tbody,h1,p{
+    color: rgb(6, 6, 6);
+    font-family: 'Courier';
+  }
+
+  #title{
+    font-family: 'Courier';
+    font-size: 30px;
+    color: rgb(10, 10, 10);
+  }
+
+  #description{
+    font-family: 'Courier';
+    font-size: 18px;
+    color: rgb(10, 10, 10);
+  }
+
+  .display-4{
+    font-family: 'Courier';
+    font-size: 30px;
+    color: rgb(10, 10, 10);
+  }
+
+  #tbody{
+    font-family: 'Courier';
+    color: rgb(10, 10, 10);
+  }
+
+  .tr{
+    font-family: 'Courier';
+    color: rgb(10, 10, 10);
+  }
+
+  .col m-4{
+    font-family: 'Courier';
+    color: rgb(10, 10, 10);
+  }
